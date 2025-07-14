@@ -16,7 +16,6 @@ Using Python libraries such as pandas, seaborn, and scikit-learn, this study:
 
 heart-disease-eda/
 ├── EDA.ipynb # Jupyter notebook containing analysis
-
 ├── Report.docx # Academic report
 ├── README.md # Project Overview
 ├── data/
