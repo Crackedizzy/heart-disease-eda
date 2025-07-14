@@ -21,7 +21,8 @@ Using Python libraries such as pandas, seaborn, and scikit-learn, this study:
 ├── data/
 │   └── heart.csv
 └── images/
-    ├── exported charts from notebook```
+    ├── exported charts from notebook
+```
 
 ## 📚 Dataset
 
