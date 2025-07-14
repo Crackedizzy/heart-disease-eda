@@ -16,7 +16,7 @@ Using Python libraries such as pandas, seaborn, and scikit-learn, this study:
 
 ```heart-disease-eda/
 ├── EDA.ipynb
-    ├── Report.docx
+├── Report.docx
 ├── README.md
 ├── data/
 │   └── heart.csv
