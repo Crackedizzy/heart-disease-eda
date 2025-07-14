@@ -15,11 +15,11 @@ Using Python libraries such as pandas, seaborn, and scikit-learn, this study:
 ## 📁 Project Structure
 
 heart-disease-eda/
-├── EDA.ipynb # Jupyter notebook containing analysis
-    ├── Report.docx # Academic report
-├── README.md # Project Overview
+├── EDA.ipynb
+    ├── Report.docx
+├── README.md
 ├── data/
-│   └── heart.csv # Source dataset
+│   └── heart.csv
 └── images/
     ├── exported charts from notebook
 
