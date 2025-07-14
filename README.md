@@ -43,9 +43,9 @@ Using Python libraries such as pandas, seaborn, and scikit-learn, this study:
 | Metric     | Value  |
 |------------|--------|
 | Accuracy   | 84%    |
-| Precision  | 0.90   |
-| Recall     | 0.84   |
-| F1-Score   | 0.87   |
+| Precision  | 90%   |
+| Recall     | 84%   |
+| F1-Score   | 87%   |
 
 The model used label encoding for categorical features, median imputation for invalid cholesterol and Oldpeak values, and feature scaling using StandardScaler.
 
